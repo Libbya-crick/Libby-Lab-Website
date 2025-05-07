@@ -42,22 +42,22 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>You? | Libbya-crick</title>
+<title>You? | Libby Lab (work in progress)</title>
 
 <link rel="icon" href="/Libby-Lab-Website/images/icon.png">
 
 <meta name="title" content="You?">
-<meta name="description" content="An engaging 1-3 sentence description of your lab.">
+<meta name="description" content="Stay tuned!. An engaging 1-3 sentence description of your lab.">
 
 <meta property="og:title" content="You?">
-<meta property="og:site_title" content="Libbya-crick">
-<meta property="og:description" content="An engaging 1-3 sentence description of your lab.">
+<meta property="og:site_title" content="Libby Lab (work in progress)">
+<meta property="og:description" content="Stay tuned!. An engaging 1-3 sentence description of your lab.">
 <meta property="og:url" content="https://libbya-crick.github.io/Libby-Lab-Website">
 <meta property="og:image" content="/Libby-Lab-Website/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="You?">
-<meta property="twitter:description" content="An engaging 1-3 sentence description of your lab.">
+<meta property="twitter:description" content="Stay tuned!. An engaging 1-3 sentence description of your lab.">
 <meta property="twitter:url" content="https://libbya-crick.github.io/Libby-Lab-Website">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/Libby-Lab-Website/images/share.jpg">
@@ -73,7 +73,7 @@
       "@type": "WebSite",
     
     "name": "You?",
-    "description": "An engaging 1-3 sentence description of your lab.",
+    "description": "Stay tuned!. An engaging 1-3 sentence description of your lab.",
     "headline": "You?",
     "publisher": {
       "@type": "Organization",
@@ -554,8 +554,10 @@
     
       <span class="title-text" data-tooltip="Home">
         
-          <span class="title">Libbya-crick</span>
+          <span class="title">Libby Lab (work in progress)</span>
         
+        
+          <span class="subtitle">Stay tuned!</span>
         
       </span>
     
@@ -738,7 +740,7 @@ This could be you!
   <div class="button-wrapper">
     <a
       class="button"
-      href="mailto:contact@Libbya-crick.com"
+      href="mailto:ashley.libby@crick.ac.uk"
       
         data-tooltip="Email"
       
@@ -762,7 +764,7 @@ This could be you!
   <div class="button-wrapper">
     <a
       class="button"
-      href="https://orcid.org/0000-0001-8713-9213"
+      href="https://orcid.org/0000-0002-8139-8844"
       
         data-tooltip="ORCID"
       
@@ -834,39 +836,15 @@ This could be you!
   <div class="button-wrapper">
     <a
       class="button"
-      href="https://twitter.com/Libbya-crick"
+      href="https://bsky.app/profile/ashleylibby.bsky.social"
       
-        data-tooltip="Twitter"
-      
-      data-style="bare"
-      
-      aria-label="Twitter"
-    >
-      <i class="icon fa-brands fa-twitter"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a
-      class="button"
-      href="https://youtube.com/Libbya-crick"
-      
-        data-tooltip="YouTube"
+        data-tooltip="Bluesky"
       
       data-style="bare"
       
-      aria-label="YouTube"
+      aria-label="Bluesky"
     >
-      <i class="icon fa-brands fa-youtube"></i>
+      <i class="icon fa-brands fa-bluesky"></i>
       
     </a>
   </div>
@@ -877,7 +855,7 @@ This could be you!
 
   <div>
     &copy; 2025
-    Libbya-crick
+    Libby Lab (work in progress)
     &nbsp; | &nbsp; Built with
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
