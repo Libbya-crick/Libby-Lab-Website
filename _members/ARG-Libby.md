@@ -8,7 +8,6 @@ aliases:
 links:
   home-page: https://janesmith.com
   orcid: 0000-0002-8139-8844
-  email: ashley.libby@crick.ac.uk
   bluesky: ashleylibby.bsky.social
 ---
 
