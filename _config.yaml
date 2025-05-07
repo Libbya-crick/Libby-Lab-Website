@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: Libbya-crick
-subtitle: 
+title: Libby Lab (work in progress)
+subtitle: Stay tuned!
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,13 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@Libbya-crick.com
-  orcid: 0000-0001-8713-9213
+  email: ashley.libby@crick.ac.uk
+  orcid: 0000-0002-8139-8844
   google-scholar: ETJoidYAAAAJ
   github: Libbya-crick
-  twitter: Libbya-crick
-  youtube: Libbya-crick
-
+  bluesky: ashleylibby.bsky.social
+ 
 ### jekyll settings
 
 # front matter defaults
