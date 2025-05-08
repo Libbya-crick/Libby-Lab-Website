@@ -622,6 +622,15 @@
         </a>
       
     
+      
+        <a
+          href="/Libby-Lab-Website/news/"
+          data-tooltip="Latest from the lab"
+        >
+          News
+        </a>
+      
+    
   </nav>
 </header>
 
