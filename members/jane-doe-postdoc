@@ -469,7 +469,7 @@
 
 <header
   class="background"
-  style="--image: url('/Libby-Lab-Website/images/background.jpg')"
+  style="--image: url('/Libby-Lab-Website/images/chick_background.jpg')"
   
     data-dark="true"
   
@@ -717,7 +717,7 @@ This could be you!
 
 <footer
   class="background"
-  style="--image: url('/Libby-Lab-Website/images/background.jpg')"
+  style="--image: url('/Libby-Lab-Website/images/chick_background.jpg')"
   
     data-dark="true"
   
