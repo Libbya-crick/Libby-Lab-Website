@@ -579,15 +579,6 @@
     
       
         <a
-          href="/Libby-Lab-Website/projects/"
-          data-tooltip="Software, datasets, and more"
-        >
-          Projects
-        </a>
-      
-    
-      
-        <a
           href="/Libby-Lab-Website/team/"
           data-tooltip="About our team"
         >
