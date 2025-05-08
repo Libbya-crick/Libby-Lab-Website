@@ -1,7 +1,7 @@
 ---
 title: Lab opening
 image: images/website_logos-01.png
-author: ARG-Libby
+author: Ashley RG Libby
 tags:
   - celebrations
 
