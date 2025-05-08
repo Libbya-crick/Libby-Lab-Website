@@ -22,7 +22,9 @@ For informal equiries, please [email Ashley](/contact) with your CV, explaining 
 The University of Toronto hosts PhD students from a range of programs: [Study at the U of T](https://www.sgs.utoronto.ca/programs/)
 
 Our lab is recruiting through: 
-- [Molecular Genetics](https://www.sgs.utoronto.ca/programs/molecular-genetics/)
+- [Molecular Genetics Program](https://www.sgs.utoronto.ca/programs/molecular-genetics/)
+- [Developmenal Biology Collaborative Specialization](https://sgs.calendar.utoronto.ca/collaborative/Developmental-Biology)
+- [Genome Biology and Bioinformatics Collaborative Specialization] (https://sgs.calendar.utoronto.ca/collaborative/Genome-Biology-and-Bioinformatics)
 
 ## Research Assistants:
 
