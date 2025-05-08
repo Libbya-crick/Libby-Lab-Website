@@ -7,4 +7,4 @@ tags:
 
 ---
 
-The Libby Lab starts at UofT Donnelly Center in January 2026! 
+The Libby Lab starts at U of T Donnelly Center in January 2026! 
